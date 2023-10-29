@@ -7,3 +7,18 @@ docs/site/
 .cache/*
 tests/__pycache__/*
 *.pytest_cache/
+
+# VSCode
+.vscode
+
+# Data
+data
+
+# Python Cache
+__pycache__
+
+# Logs
+logs
+
+# ML
+mlruns
