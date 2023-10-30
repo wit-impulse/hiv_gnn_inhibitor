@@ -1,6 +1,6 @@
 # HIV Inhibitor Prediction Using GNN
 
-![CI Workflow](https://github.com/fmc-data-solutions/ds_utils/actions/workflows/ci.yml/badge.svg?event=push)
+![CI Workflow](https://github.com/wit-impulse/hiv_gnn_inhibitor/actions/workflows/ci.yml/badge.svg?event=push)
 
 ## Introduction
 
